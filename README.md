@@ -1,3 +1,5 @@
 # new
 
-Hello, world!
+Hello, qa-guru!
+
+Эта строчка добавлена из локальной 
